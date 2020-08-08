@@ -242,7 +242,7 @@ return y === '6330403K07Rik' ? '#FFFFFF' :
        y === 'Tnr' ? '#CD37FA' :
        y === 'Ttn' ? '#ED6983' :
        y === 'Vcan' ? '#127D5E' :
-       y === 'Zfpm2' ? '#68E9E5' ;
+       y === 'Zfpm2' ? '#68E9E5' : '#FD6A02';
 }
 
 
