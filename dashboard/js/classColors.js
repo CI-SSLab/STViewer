@@ -3,10 +3,6 @@
 function classColorsCodes()
 {
     var out = [
-
-
-        // I added this
-        {className: 'Other', IdentifiedType: 'Other', colorGroup: 'Other', color: '#C0C0C0'},
         
         {className: 'n00_Pam/Nnat', IdentifiedType: ' n00_Pam/Nnat', color: '#7757FA'},
         {className: 'n01_Foxp2/Cck', IdentifiedType: ' n01_Foxp2/Cck', color: '#EA249E'},
@@ -58,7 +54,8 @@ function classColorsCodes()
         {className: 'VLMCs2', IdentifiedType: ' VLMCs2', color: '#220327'},
         {className: 'VLMCs3', IdentifiedType: ' VLMCs3', color: '#220327'},
         {className: 'Zero', IdentifiedType: 'Zero', color: '#000000'},
-        {className: 'Other', IdentifiedType: 'Other', colorGroup: 'Other', color: '#A9B7BF'},
+        // I added this
+        {className: 'Other', IdentifiedType: 'Other', colorGroup: 'Other', color: '#C0C0C0'},
 
 
     ];
